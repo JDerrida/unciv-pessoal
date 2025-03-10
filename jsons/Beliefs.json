@@ -37,7 +37,7 @@
     {
         "name": "Hill",
         "type": "Pantheon",
-        "uniques": ["[+1 Faith, +1 Culture, +3 Production] from every [Hill]","[+1 Science, +1 Faith] from every [Mountain]"]
+        "uniques": ["[+1 Faith, +1 Culture, +2 Production] from every [Hill]","[+1 Science, +1 Faith] from every [Mountain]"]
     },
     {
         "name": "Tundra",
