@@ -1,0 +1,111 @@
+[
+    {
+        "name": "God of the Depths",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Faith, +1 Production, -1 Gold] from every [Ocean]"]
+    },
+    {
+        "name": "The Ancient Ones",
+        "type": "Pantheon",
+        "uniques": ["[+1 Food, +1 Faith, +1 Gold] from every [Shrine] <when below [0] Happiness>"]
+    },
+    {
+        "name": "Mirthful Worship",
+        "type": "Pantheon",
+        "uniques": ["[+1 Happiness] from every [Shrine] <when not at war>"]
+    },
+    {
+        "name": "Espirito do Deserto",
+        "type": "Pantheon",
+        "uniques": ["[+2 Production, +1 Faith, +1 Culture] from every [Deserto]","[+2 Food] from every [Oasis]"]
+    },
+    {
+        "name": "Espirito Da Selva",
+        "type": "Pantheon",
+        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Florest]","[+2 Science, +1 Faith] from every [jungle]"
+    },
+    {
+        "name": "Grassland",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +1 Production, +1 Food] from every [Grassland]","[+1 Science, +1 Faith] from every [Plains]"
+    },
+    {
+        "name": "Caça",
+        "type": "Pantheon",
+        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Deer]","[+1 Science, +1 Faith] from every [sheep]"
+    },
+    {
+        "name": "Hill",
+        "type": "Pantheon",
+        "uniques": ["[+1 Faith, +1 Culture, +3 Production] from every [Hill]","[+1 Science, +1 Faith] from every [Mountain]"
+    },
+    {
+        "name": "Tundra",
+        "type": "Pantheon",
+        "uniques": ["[+2 Production, +1 Faith, +1 Science] from every [Tundra]"]
+    },
+    {
+        "name": "Felicidade",
+        "type": "Pantheon",
+        "uniques": ["[-20]% Unhappiness from [Followers of this Religion] [in all cities]","[+20]% growth [in all cities]"]
+    },
+    {
+        "name": "Producao",
+        "type": "Pantheon",
+        "uniques": ["[+20]% Production towards any buildings that already exist in the Capital","[+6 Production] [in all cities]"]
+    },
+    {
+        "name": "Cultura",
+        "type": "Pantheon",
+        "uniques": ["[+20]% [Culture] from every follower, up to [+50]%","[-20]% Culture cost of adopting new Policies"]
+    },
+    {
+        "name": "Where no man has gone before",
+        "type": "Follower",
+        "uniques": ["[+2 Science, +1 Culture, +1 Faith] from every [Mountain]"]
+    },
+    {
+        "name": "Freedom to Share",
+        "type": "Follower",
+        "uniques": ["[+1 Science, +1 Culture, +1 Faith, +1 Happiness, -2 Gold] from each Trade Route"]
+    },
+    {
+        "name": "Transcendent Hexagons",
+        "type": "Follower",
+        "uniques": ["[+1 Faith, +1 Food] from every [Oasis]"]
+    },
+    {
+        "name": "Mess hall karaoke",
+        "type": "Follower",
+        "uniques": ["[-1 Culture, +3 Food] from every [Barracks]"]
+    },
+    {
+        "name": "March till you drop",
+        "type": "Follower",
+        "uniques": ["[-1 Food] from every [Grassland]", "+[15%] Strength vs [All]"]
+    },
+
+
+    {
+        "name": "False Friends",
+        "type": "Founder",
+        "uniques": ["[+2 Science, -1 Culture] for every [4] global followers [in foreign cities]"]
+    },
+    {
+        "name": "Inquisition",
+        "type": "Founder",
+        "uniques": ["[+2 Happiness, +1 Production, -1 Science, -1 Culture] for every [2] global followers [in annexed cities]",
+                    "May buy [Inquisitor] units with [Gold] [in annexed cities]"]
+    },
+
+    {
+        "name": "Forced Labour",
+        "type": "Enhancer",
+        "uniques": ["May buy [Worker] units for [100] [Faith] [in cities following this religion]"]
+    },
+    {
+        "name": "Planned obsolescence",
+        "type": "Enhancer",
+        "uniques": ["[-75]% Gold cost of upgrading <for [All] units>", "[+25]% maintenance costs <for [All] units>"]
+    }
+]
