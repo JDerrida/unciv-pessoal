@@ -22,7 +22,7 @@
     {
         "name": "Espirito Da Selva",
         "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Florest]","[+2 Science, +1 Faith] from every [jungle]"]
+        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Forest]","[+2 Science, +1 Faith] from every [Jungle]"]
             },
     {
         "name": "Grassland",
@@ -47,7 +47,7 @@
     {
         "name": "Felicidade",
         "type": "Pantheon",
-        "uniques": ["[-20]% Unhappiness [in all cities]","[+20]% growth [in all cities]"]
+        "uniques": ["[-30]% Unhappiness","[+20]% growth [in all cities]"]
     },
     {
         "name": "Producao",
