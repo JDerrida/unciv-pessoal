@@ -23,7 +23,7 @@
         "name": "Espirito Da Selva",
         "type": "Pantheon",
         "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Florest]","[+2 Science, +1 Faith] from every [jungle]"]
-            }
+            },
     {
         "name": "Grassland",
         "type": "Pantheon",
