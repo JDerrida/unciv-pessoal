@@ -32,7 +32,7 @@
     {
         "name": "Caça",
         "type": "Pantheon",
-        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Deer]","[+1 Science, +1 Faith] from every [sheep]"]
+        "uniques": ["[+1 Science, +1 Faith, +1 Culture, +1 Production, +1 Food] from every [Deer]","[+1 Science, +1 Faith] from every [Cattle]"]
             },
     {
         "name": "Hill",
@@ -47,7 +47,7 @@
     {
         "name": "Felicidade",
         "type": "Pantheon",
-        "uniques": ["[-30]% Unhappiness","[+20]% growth [in all cities]"]
+        "uniques": ["[+30]% happiness","[+20]% growth [in all cities]"]
     },
     {
         "name": "Producao",
